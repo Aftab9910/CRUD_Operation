@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🚀 Task Manager Web App (Frontend)
 A modern and responsive Task Manager Web Application built using React.js and Tailwind CSS.
 This app allows users to manage their daily tasks with authentication and a clean dashboard UI.
@@ -20,6 +21,47 @@ Login	Signup	Dashboard
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 
+=======
+# 🚀 Task Manager Web App (Frontend)
+
+A modern and responsive **Task Manager Web Application** built using React.js and Tailwind CSS.  
+This app allows users to manage their daily tasks with authentication and a clean dashboard UI.
+
+---
+
+## ✨ Features
+
+- 🔐 User Authentication (Login & Signup)
+- 📋 Create, Update, Delete Tasks
+- 📊 Dashboard with Task List
+- 🎯 Status Tracking (Pending / Completed)
+- 🎨 Responsive UI with Tailwind CSS
+- ⚡ Fast and smooth user experience
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🌐 Axios (API calls)
+- 🔗 React Router DOM
+
+---
+
+## 📸 Screenshots
+
+| Login Page | Signup Page | Dashboard |
+|-----------|------------|----------|
+| ![Login](frontend/public/screenshots/login.png) | ![Signup](frontend/public/screenshots/signup.png) | ![Dashboard](frontend/public/screenshots/dashboard.png) |
+---
+
+## ⚙️ Installation & Setup
+
+1️⃣ Clone the repository
+
+```bash
+>>>>>>> b8d1e70 (Fixed screenshot path)
 git clone https://github.com/your-username/your-repo-name.git
 
 
@@ -72,4 +114,8 @@ frontend/
 ├── screenshots/
 │ ├── login.png
 │ ├── signup.png
+<<<<<<< HEAD
 │ └── dashboard.png
+=======
+│ └── dashboard.png
+>>>>>>> b8d1e70 (Fixed screenshot path)
